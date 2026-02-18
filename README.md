@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img width="150" src="https://i.pinimg.com/736x/4d/98/86/4d988663f9481fb01256fddcd1b0dd46.jpg" />
 </div>
 
 ###
@@ -11,7 +11,7 @@
   <a href="https://discord.com/users/deivissondb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="deivissondb@gmail.com" target="_blank">
+  <a href="mailto:deivissondb@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -19,12 +19,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Deivissondb.Deivissondb&"  />
 </div>
 
 ###
 
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">Olá, eu sou o Deivisson!👋</h1>
 
 ###
 
@@ -60,12 +60,12 @@
 
 ###
 
-<h3 align="left"></h3>
+<h3 align="left">📊 Estatísticas</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Deivissondb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
 </div>
 
 ###
